@@ -19,3 +19,5 @@ faiss_index/
 # OS Junk
 .DS_Store
 Thumbs.db
+
+Chatbot.py
