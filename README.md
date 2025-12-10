@@ -6,8 +6,8 @@
 
 
 ## 📸 Demo
-![App Screenshot](./Screenshot 2025-12-10 125547.png)
-![App Screenshot](./Screenshot 2025-12-10 130638.png)
-![App Screenshot](./Screenshot 2025-12-10 130802.png)
+![App Screenshot](./demo1.png)
+![App Screenshot](./demo2.png)
+![App Screenshot](./demo3.png)
 
 
