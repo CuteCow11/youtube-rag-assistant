@@ -1,0 +1,21 @@
+# Secrets (NEVER PUSH THESE)
+.env
+
+# Python Junk
+__pycache__/
+*.pyc
+
+# Virtual Environment (Add your specific name here)
+venv/
+.venv/
+env/
+venv11/
+
+# Database files
+VectorStores/
+chroma_db/
+faiss_index/
+
+# OS Junk
+.DS_Store
+Thumbs.db
